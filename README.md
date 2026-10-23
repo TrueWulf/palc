@@ -39,6 +39,9 @@ see ~/.config/palc/rc to enable or disable it. it renders
 and applies them: havoc gets a live config reload, foot is written to
 ~/.config/foot/foot.ini so every new window starts themed.
 
+<div align="center">
+
 ## license
 
 isc, see [LICENSE](LICENSE)
+</div>
