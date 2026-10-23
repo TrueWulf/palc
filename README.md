@@ -1,3 +1,5 @@
+<div align="center">
+
 # palc (**pal**itra in **C**)
 
 wallpaper palette generator, in C, no dependencies beyond imlib2.
@@ -6,6 +8,7 @@ reads an image, extracts its dominant colors with k-means clustering
 and prints them as a terminal table, json, plain hex or osc escape
 sequences. can also render template files and recolor running
 terminals live.
+</div>
 
 ## build
 
