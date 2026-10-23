@@ -24,7 +24,9 @@ needs imlib2 and its headers (imlib2-devel / libimlib2-dev).
     palc -R           reset terminals to the saved original theme
     palc -T tpl -o out    render template with {color0}..{color31},
                           {background}, {foreground}
-
+    palc -h           help
+    palc -v           version
+    
 without an argument palc finds the current wallpaper itself
 ($WALLPAPER, wallpaper daemons, desktop settings, common config files).
 
