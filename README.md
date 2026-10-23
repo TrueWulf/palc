@@ -36,4 +36,4 @@ and applies them: havoc gets a live config reload, foot is written to
 
 ## license
 
-isc, see LICENSE
+isc, see [LICENSE](LICENSE)
